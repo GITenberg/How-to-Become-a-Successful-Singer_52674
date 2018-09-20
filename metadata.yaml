@@ -1,0 +1,51 @@
+_repo: How-to-Become-a-Successful-Singer_52674
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Davies, Ben
+    birthdate: 1858
+    deathdate: 1943
+    gutenberg_agent_id: '46996'
+    url: http://www.gutenberg.org/2009/agents/46996
+    wikipedia: https://en.wikipedia.org/wiki/Ben_Davies_(tenor)
+  - agent_name: Caruso, Enrico
+    birthdate: 1873
+    deathdate: 1921
+    gutenberg_agent_id: '9062'
+    url: http://www.gutenberg.org/2009/agents/9062
+    wikipedia: http://en.wikipedia.org/wiki/Enrico_Caruso
+  - agent_name: Butt, Clara, Dame
+    alias: Rumford, Clara Butt
+    birthdate: 1872
+    deathdate: 1936
+    gutenberg_agent_id: '46994'
+    url: http://www.gutenberg.org/2009/agents/46994
+    wikipedia: https://en.wikipedia.org/wiki/Clara_Butt
+  - agent_name: Melba, Nellie, Dame
+    aliases:
+    - Mitchell, Helen Porter
+    - Armstrong, Helen Porter
+    birthdate: 1861
+    deathdate: 1931
+    gutenberg_agent_id: '46995'
+    url: http://www.gutenberg.org/2009/agents/46995
+    wikipedia: https://en.wikipedia.org/wiki/Nellie_Melba
+description: ''
+gutenberg_issued: '2016-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Singing'
+- !lcsh 'Voice culture'
+- GITenberg
+tableOfContents: How to become a successful singer / Madame Clara Butt -- The gift
+  of song with practical advice on voice culture / Madame Melba -- Hints on the cultivation
+  of the voice / Enrico Caruso -- How to attain success in singing / Ben Davies.
+title: How to Become a Successful Singer
+url: http://www.gutenberg.org/ebooks/52674
